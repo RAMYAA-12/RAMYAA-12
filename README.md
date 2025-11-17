@@ -1,12 +1,13 @@
 ## Hi there 👋
-# I'm Ramyaa 👋
+# I'm Ramyaa 
 
 ## 🚀 About Me
-I'm an **Artificial Intelligence and Data Science enthusiast** passionate about building intelligent systems and exploring innovative solutions. I love combining **machine learning, deep learning, and knowledge engineering** to solve real-world problems.
+I'm a **Software Developer** with expertise in **Java, Python, and Artificial Intelligence**, passionate about building **logic-driven intelligent systems** and exploring **deep learning applications**. I enjoy solving complex problems by combining **programming, AI, and data-driven insights** to create innovative and practical solutions.
 
-- 🌱 I’m currently learning **Advanced AI techniques and multi-agent systems**  
-- 💻 I love working with **Python, Java, and JavaScript**  
-- 🔭 I’m working on **AI projects, deep learning models, and innovative software solutions**   
+- 🌱 Currently exploring **advanced AI techniques and multi-agent systems**  
+- 💻 Experienced in **Java, Python, and AI development**  
+- 🔭 Working on **intelligent systems and deep learning projects**  
+ 
 
 ---
 
